@@ -3,10 +3,10 @@
 # PLAS | Windows Playbook
 
   [![License](https://img.shields.io/badge/license-plasXOC-blue)](LICENSE)
-  [![AME Wizard](https://img.shields.io/badge/built%20for-AME%20Wizard-orange)](https://ameliorated.io)
-  [![Discord](https://img.shields.io/discord/yourserverid?label=discord&color=5865F2)](https://discord.gg/yourlink)
+  [![AME Wizard](https://img.shields.io/badge/built%20for-AME%20Wizard-purple)](https://ameliorated.io)
+  [![Discord](https://img.shields.io/discord/yourserverid?label=discord&color=5865F2)](https://discord.com/invite/ySGqb7kWwp)
 
-  [Discord](https://discord.gg/yourlink) • [Releases](../../releases) • [Issues](../../issues)
+  [Discord](https://discord.com/invite/ySGqb7kWwp) • [Releases](../../releases) • [Issues](../../issues)
 
   A no-nonsense Windows playbook built for people who actually care about performance, privacy, and owning their own machine.
 </div>
@@ -109,7 +109,7 @@ Not sure if something fits the project? Open an issue first and ask. We're not l
 
 ## 💬 Community
 
-**Discord:** [discord.gg/yourlink](https://discord.gg/yourlink)
+**Discord:** [discord.com/invite/ySGqb7kWwp](https://discord.com/invite/ySGqb7kWwp)
 
 ---
 
