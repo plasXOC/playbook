@@ -23,7 +23,7 @@
 
 ---
 
-## 🖥️ What is PLAS?
+## 🖥️ The Playbook
 
 PLAS is a custom AME Wizard playbook that strips Windows down to what actually matters. Telemetry, background garbage, and unnecessary components are removed at the source — not just toggled off until the next update undoes everything.
 
@@ -31,7 +31,7 @@ Built by people who know what a properly tuned system feels like. Not benchmarks
 
 ---
 
-## ⚡ Why PLAS?
+## ⚡ What Changes
 
 ### 🔒 Privacy First
 Telemetry and data collection aren't just disabled — they're gone. Microsoft doesn't get to phone home on your machine.
