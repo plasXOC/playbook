@@ -4,7 +4,7 @@
 
   [![License](https://img.shields.io/badge/license-plasXOC-blue)](LICENSE)
   [![AME Wizard](https://img.shields.io/badge/built%20for-AME%20Wizard-purple)](https://ameliorated.io)
-  [![Discord](https://img.shields.io/discord/yourserverid?label=discord&color=5865F2)](https://discord.com/invite/ySGqb7kWwp)
+  [![Discord](https://img.shields.io/badge/discord-join-5865F2)](https://discord.com/invite/ySGqb7kWwp)
 
   [Discord](https://discord.com/invite/ySGqb7kWwp) • [Releases](../../releases) • [Issues](../../issues)
 
