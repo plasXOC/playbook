@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/banner.png" alt="plas" width="600"/>
+
+# PLAS | Windows Playbook
 
   [![License](https://img.shields.io/badge/license-plasXOC-blue)](LICENSE)
   [![AME Wizard](https://img.shields.io/badge/built%20for-AME%20Wizard-orange)](https://ameliorated.io)
@@ -22,15 +23,15 @@
 
 ---
 
-## 🖥️ What is plas?
+## 🖥️ What is PLAS?
 
-plas is a custom AME Wizard playbook that strips Windows down to what actually matters. Telemetry, background garbage, and unnecessary components are removed at the source — not just toggled off until the next update undoes everything.
+PLAS is a custom AME Wizard playbook that strips Windows down to what actually matters. Telemetry, background garbage, and unnecessary components are removed at the source — not just toggled off until the next update undoes everything.
 
 Built by people who know what a properly tuned system feels like. Not benchmarks. Not placebo tweaks. Real, tangible differences you can feel the moment you sit down.
 
 ---
 
-## ⚡ Why plas?
+## ⚡ Why PLAS?
 
 ### 🔒 Privacy First
 Telemetry and data collection aren't just disabled — they're gone. Microsoft doesn't get to phone home on your machine.
