@@ -1,21 +1,237 @@
-MIT License
+PLASXOC WINDOWS PLAYBOOK LICENSE AGREEMENT
+Copyright (c) 2026 plasXOC & Solah
+All Rights Reserved.
 
-Copyright (c) 2026 plasXOC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PREAMBLE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This License Agreement ("Agreement") governs the use, modification,
+and distribution of the plasXOC Windows Playbook ("the Playbook"),
+including all associated scripts, configuration files, batch files,
+YAML definitions, and any supplementary materials provided alongside
+it. This Agreement is entered into between plasXOC & Solah ("the
+Authors") and any individual or entity ("the User") who obtains,
+installs, runs, modifies, or distributes the Playbook in any form.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+By obtaining, installing, or running the Playbook in any capacity,
+the User agrees to be bound by the terms of this Agreement in full.
+If the User does not agree to these terms, they must not use the
+Playbook in any form.
+
+The Playbook was created with a single principle in mind: Windows
+should be free of corporate interference, data harvesting, and
+forced behaviour that serves Microsoft rather than the person
+sitting at the keyboard. This software is a reflection of that
+belief. It is offered free of charge and is intended to remain that
+way, permanently and without exception.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1 — DEFINITIONS
+
+1.1 "Playbook" refers to the plasXOC AME Wizard playbook package,
+including but not limited to all YAML configuration files, batch
+scripts, PowerShell scripts, registry modifications, post-install
+configuration utilities, and any documentation or assets bundled
+with or referenced by the package.
+
+1.2 "Authors" refers to plasXOC and Solah, the original creators
+and current maintainers of the Playbook.
+
+1.3 "User" refers to any individual, group, organisation, or legal
+entity that obtains, accesses, installs, executes, modifies, or
+distributes the Playbook or any portion thereof.
+
+1.4 "Modified Version" refers to any derivative work based on the
+Playbook in which one or more components have been altered, removed,
+added to, or combined with other software or content.
+
+1.5 "Distribution" refers to any act of making the Playbook or a
+Modified Version available to a third party, whether through direct
+transfer, hosting, mirroring, embedding, or any other means.
+
+1.6 "Commercial Use" refers to any use of the Playbook or a
+Modified Version in exchange for monetary compensation, goods,
+services, subscriptions, or any other form of consideration,
+whether direct or indirect.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2 — GRANT OF RIGHTS
+
+Subject to full compliance with the terms of this Agreement, the
+Authors grant the User the following non-exclusive, non-transferable,
+royalty-free rights:
+
+2.1 PERSONAL USE
+The User may install and run the Playbook on any number of personal
+devices for non-commercial purposes.
+
+2.2 MODIFICATION
+The User may modify the Playbook for personal use. Modified Versions
+may be used privately without restriction, provided they are not
+distributed or used commercially.
+
+2.3 DISTRIBUTION OF UNMODIFIED COPIES
+The User may distribute unmodified copies of the Playbook provided
+that this License Agreement is included in full and unaltered, all
+original copyright notices are preserved, and no compensation of
+any kind is solicited or accepted in connection with the
+distribution.
+
+2.4 DISTRIBUTION OF MODIFIED VERSIONS
+The User may distribute Modified Versions of the Playbook under the
+following conditions: the Modified Version must be clearly identified
+as such and must not be presented as the original plasXOC Playbook;
+the Authors must be credited in a prominent location within the
+documentation or release notes; this License Agreement must be
+included in full; and no compensation of any kind is solicited or
+accepted in connection with the distribution.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3 — RESTRICTIONS
+
+The following actions are expressly prohibited under this Agreement:
+
+3.1 COMMERCIAL USE
+The Playbook, in original or modified form, may not be sold, licensed
+for a fee, bundled into a paid product or service, offered as part
+of a subscription, or otherwise used as a means of generating revenue
+in any form. Windows operating system files and installation media
+are proprietary to Microsoft Corporation. Charging for a playbook
+that installs or modifies Windows compounds an already exploitative
+practice and is not something the Authors will ever endorse. This
+restriction is permanent and applies to all present and future
+versions of the Playbook.
+
+3.2 MISREPRESENTATION OF ORIGIN
+The User may not present the Playbook or any Modified Version as
+their own original work. The User may not remove, obscure, or alter
+any copyright notices, credits, or attributions contained within
+the Playbook. The User may not use the names "plasXOC" or "Solah"
+or any associated branding to imply endorsement of a Modified
+Version without prior written consent from the Authors.
+
+3.3 MALICIOUS USE
+The User may not use the Playbook or any Modified Version as a
+vehicle for distributing malware, spyware, adware, or any software
+intended to harm, surveil, or deceive end users. Any distribution
+found to contain such modifications will be considered a material
+breach of this Agreement.
+
+3.4 SUBLICENSING
+The User may not sublicense the Playbook or grant rights to third
+parties beyond those expressly permitted in Section 2 of this
+Agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4 — ATTRIBUTION REQUIREMENTS
+
+4.1 Any distribution of the Playbook, whether original or modified,
+must include clear and visible credit to plasXOC and Solah as the
+original authors of the Playbook.
+
+4.2 Attribution must appear in a location reasonably visible to
+the end user, such as within the documentation, a README file, an
+about page, or a credits section.
+
+4.3 Attribution must include the names "plasXOC" and "Solah" and,
+where possible, a reference to the original project repository.
+
+4.4 The Authors do not require attribution for private, personal
+use of either the original or a Modified Version of the Playbook.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5 — DISCLAIMER OF WARRANTIES
+
+5.1 THE PLAYBOOK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. THE AUTHORS MAKE NO REPRESENTATIONS OR
+WARRANTIES REGARDING THE FITNESS OF THE PLAYBOOK FOR ANY PARTICULAR
+PURPOSE, ITS COMPATIBILITY WITH ANY SPECIFIC HARDWARE OR SOFTWARE
+CONFIGURATION, OR ITS FREEDOM FROM DEFECTS OR ERRORS.
+
+5.2 THE PLAYBOOK MAKES SIGNIFICANT AND IN SOME CASES IRREVERSIBLE
+CHANGES TO THE WINDOWS OPERATING SYSTEM. THE USER ASSUMES FULL
+RESPONSIBILITY FOR UNDERSTANDING THE NATURE OF THESE CHANGES BEFORE
+PROCEEDING. IT IS STRONGLY RECOMMENDED THAT THE USER READS ALL
+AVAILABLE DOCUMENTATION AND CREATES A FULL SYSTEM BACKUP PRIOR TO
+RUNNING THE PLAYBOOK.
+
+5.3 THE AUTHORS DO NOT GUARANTEE THAT THE PLAYBOOK WILL FUNCTION
+CORRECTLY ON ALL HARDWARE CONFIGURATIONS, WINDOWS VERSIONS, OR IN
+ALL USAGE ENVIRONMENTS. RESULTS MAY VARY.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6 — LIMITATION OF LIABILITY
+
+6.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHORS
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING FROM THE USE OR
+INABILITY TO USE THE PLAYBOOK, INCLUDING BUT NOT LIMITED TO DATA
+LOSS, SYSTEM INSTABILITY, HARDWARE INCOMPATIBILITY, OR ANY OTHER
+DAMAGE TO SOFTWARE OR HARDWARE.
+
+6.2 THE USER RUNS THE PLAYBOOK ENTIRELY AT THEIR OWN RISK. THE
+AUTHORS ACCEPT NO RESPONSIBILITY FOR ANY OUTCOME RESULTING FROM
+THE USE, MISUSE, OR MODIFICATION OF THE PLAYBOOK BY ANY PARTY.
+
+6.3 NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR LIMIT LIABILITY FOR
+FRAUD, DEATH, OR PERSONAL INJURY CAUSED BY NEGLIGENCE WHERE SUCH
+EXCLUSION OR LIMITATION IS NOT PERMITTED BY APPLICABLE LAW.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7 — TERMINATION
+
+7.1 This Agreement and the rights granted herein will terminate
+automatically and without notice if the User fails to comply with
+any term of this Agreement.
+
+7.2 Upon termination, the User must cease all use and distribution
+of the Playbook and destroy any copies in their possession.
+
+7.3 Sections 3, 5, 6, and 8 of this Agreement shall survive
+termination and remain in effect indefinitely.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 8 — GENERAL PROVISIONS
+
+8.1 ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the Authors
+and the User with respect to the Playbook and supersedes all prior
+understandings, representations, or agreements relating to its
+subject matter.
+
+8.2 SEVERABILITY
+If any provision of this Agreement is found to be unenforceable or
+invalid under applicable law, that provision shall be modified to
+the minimum extent necessary to make it enforceable, and all
+remaining provisions shall continue in full force and effect.
+
+8.3 NO WAIVER
+Failure by the Authors to enforce any provision of this Agreement
+shall not constitute a waiver of the Authors' right to enforce that
+provision at a later time.
+
+8.4 UPDATES TO THIS LICENSE
+The Authors reserve the right to update or revise this License
+Agreement for future versions of the Playbook. Continued use of
+any version of the Playbook constitutes acceptance of the License
+Agreement under which that version was released.
+
+8.5 CONTACT
+For permissions beyond the scope of this License, including requests
+for commercial licensing or formal endorsement of a Modified Version,
+contact the Authors via the official plasXOC GitHub repository or
+associated social channels.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This software is and will always be free.
+Built by plasXOC & Solah.
