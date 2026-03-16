@@ -46,7 +46,7 @@ Optional features let you decide what gets removed and what stays. Updates, brow
 Fine-tune Windows behaviour any time after install without ever needing to reinstall. Services, updates, and more — all scriptable, all yours.
 
 ### 🌐 Open Shell
-A proper Start menu replacement that actually feels like Windows, not a UX experiment.
+A proper Start menu replacement that actually feels natural to use.
 
 ---
 
